@@ -1,8 +1,6 @@
 <h1 align="center">Bot para auxiliar pessoas com deficiência visual </h1>
 <h2 align="center"> <i>Aurion</i></h2>
 
-<h4 align="center"> <i>Avaliação final do programa de bolsas Compass UOL para formação em machine learning para AWS.</i></h4>
-
 ![Imagem|Compass](assets/banner.png)
 
 ## 🌐 Sobre o Projeto
@@ -57,16 +55,6 @@ No telegram, busque por ``Aurion, Seu assistente visual`` e inicie a conversa.
 - API Gateway
 - Telegram
 - Python
-
-## ❌ Dificuldades
-- Dificuldades com análise de imagens:
-  <p>Tivemos desafios significativos ao trabalhar com a análise de imagens utilizando o AWS Rekognition.</p>
- 
-- Labels inconsistentes:
-  <p>O principal problema estava relacionado às labels inconsistentes fornecidas pelo serviço.</p>
- 
-- Resultados incorretos no AWS Bedrock:
-  <p>As inconsistências nas labels resultaram em análises imprecisas, afetando a integração dos dados com o AWS Bedrock.</p>
 
 ## 👨‍💻 Autores
 <div>
